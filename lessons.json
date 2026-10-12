@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "lessons": [
     {
       "id": "ted-001",
@@ -7,57 +7,57 @@
       "title": "Forget the Corporate Ladder — Winners Take Risks",
       "speaker": "Molly Graham",
       "source": "TED Talk",
-      "notes": "Chế độ A: ưu tiên trích dẫn nguyên tác TED (đã đối chiếu). Những thẻ chưa có trích dẫn hiển thị liên kết transcript thay cho ví dụ tự viết. Không có câu minh họa AI.",
+      "notes": "56 thẻ; mỗi thẻ hiển thị trực tiếp một đoạn trích nguyên văn ngắn từ transcript do người học cung cấp, kèm bản dịch tiếng Việt. Không có ví dụ tự biên soạn.",
       "cards": [
         {
-          "term": "corporate ladder",
-          "meaning": "nấc thang sự nghiệp",
+          "term": "the stairs (career metaphor)",
+          "meaning": "ẩn dụ nấc thang sự nghiệp",
           "category": "VOCAB",
           "id": "ted-001-001",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "It’s an idea that I like to call “the stairs.”",
+          "translation": "Đó là một ý tưởng mà tôi thích gọi là ‘những bậc thang’.",
+          "explanation": "Ẩn dụ xuyên suốt: “the stairs” là lộ trình thăng tiến tuyến tính, tưởng như an toàn.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "promotion",
           "meaning": "sự thăng chức",
           "category": "VOCAB",
           "id": "ted-001-002",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "or your next promotion.",
+          "translation": "hoặc lần thăng chức tiếp theo của bạn.",
+          "explanation": "Promotion là sự thăng chức; next promotion = lần thăng chức kế tiếp.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "self-worth",
           "meaning": "giá trị bản thân",
           "category": "VOCAB",
           "id": "ted-001-003",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "your self-worth is tied to your title",
+          "translation": "giá trị bản thân bạn bị gắn với chức danh của bạn",
+          "explanation": "Self-worth là cảm nhận về giá trị bản thân; tied to = bị phụ thuộc/gắn với.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "performance rating",
           "meaning": "đánh giá hiệu suất",
           "category": "VOCAB",
           "id": "ted-001-004",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "or your last performance rating",
+          "translation": "hoặc lần đánh giá hiệu suất gần nhất của bạn",
+          "explanation": "Performance rating chỉ kết quả đánh giá hiệu suất công việc.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "illusion",
           "meaning": "ảo tưởng; điều tưởng là thật",
           "category": "VOCAB",
           "id": "ted-001-005",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "the stairs are an illusion.",
+          "translation": "những bậc thang chỉ là một ảo tưởng.",
+          "explanation": "Illusion là điều tưởng thật nhưng không đúng với thực tế.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "intrigued",
@@ -65,129 +65,119 @@
           "category": "VOCAB",
           "id": "ted-001-006",
           "quote": "I was intrigued, but I was also scared.",
-          "translation": "Tôi tò mò, bị thu hút, nhưng cũng thấy sợ.",
-          "explanation": "Intrigued đối lập với scared: vừa hứng thú vừa lo lắng.",
-          "quoteStatus": "verified_excerpt"
+          "translation": "Tôi thấy tò mò, nhưng đồng thời cũng sợ hãi.",
+          "explanation": "Be intrigued = cảm thấy bị cuốn hút/tò mò; but... also... thể hiện hai cảm xúc song song.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "risky",
           "meaning": "có rủi ro",
           "category": "VOCAB",
           "id": "ted-001-007",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "it was risky",
+          "translation": "nó có nhiều rủi ro",
+          "explanation": "Risky là tính từ mô tả công việc/dự án có nguy cơ thất bại.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "long-term",
           "meaning": "dài hạn",
           "category": "VOCAB",
           "id": "ted-001-008",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "It was a long-term project",
+          "translation": "Đó là một dự án dài hạn.",
+          "explanation": "Long-term bổ nghĩa cho project: dự án kéo dài lâu.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "capable",
           "meaning": "có khả năng",
           "category": "VOCAB",
           "id": "ted-001-009",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "I had gone from feeling competent and capable in HR",
+          "translation": "Tôi đã chuyển từ cảm giác thạo việc và có năng lực trong lĩnh vực nhân sự",
+          "explanation": "Capable = có khả năng; thường đi với of + V-ing hoặc danh từ.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "competent",
           "meaning": "có năng lực, thành thạo",
           "category": "VOCAB",
           "id": "ted-001-010",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "I had gone from feeling competent and capable in HR",
+          "translation": "Tôi đã chuyển từ cảm giác thạo việc và có năng lực trong lĩnh vực nhân sự",
+          "explanation": "Competent = có đủ kỹ năng thực hiện công việc; đi cùng capable để nhấn mạnh năng lực.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "steep",
           "meaning": "dốc đứng",
           "category": "VOCAB",
           "id": "ted-001-011",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "a very steep cliff",
+          "translation": "một vách đá rất dốc",
+          "explanation": "Steep cliff là vách đá dốc đứng; ở đây diễn tả khó khăn khi đổi nghề.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "brilliant",
           "meaning": "xuất sắc; rất thông minh",
           "category": "VOCAB",
           "id": "ted-001-012",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "brilliant people asking very dumb questions.",
+          "translation": "những người xuất sắc và đặt ra những câu hỏi rất ngớ ngẩn.",
+          "explanation": "Brilliant mô tả người rất xuất sắc, thông minh.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "nuanced",
           "meaning": "tinh tế; có nhiều sắc thái",
           "category": "VOCAB",
           "id": "ted-001-013",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "a nuanced part of this project.",
+          "translation": "một khía cạnh phức tạp, nhiều sắc thái của dự án này.",
+          "explanation": "Nuanced = tinh tế/phức tạp với nhiều sắc thái, không thể đánh giá đơn giản.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "vividly",
           "meaning": "một cách rõ ràng, sống động",
           "category": "VOCAB",
           "id": "ted-001-014",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "I so vividly remember walking out of that meeting",
+          "translation": "Tôi nhớ vô cùng rõ cảnh mình bước ra khỏi cuộc họp đó.",
+          "explanation": "Vividly remember + V-ing: nhớ rất rõ trải nghiệm từng xảy ra.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "confident",
           "meaning": "tự tin",
           "category": "VOCAB",
           "id": "ted-001-015",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "to feeling confident and capable.",
+          "translation": "sang cảm giác tự tin và có năng lực.",
+          "explanation": "Confident = tự tin; khác competent là có năng lực chuyên môn.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "necessity",
           "meaning": "sự cần thiết; nhu cầu bắt buộc",
           "category": "VOCAB",
           "id": "ted-001-016",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
-        },
-        {
-          "term": "uncertainty",
-          "meaning": "sự không chắc chắn",
-          "category": "VOCAB",
-          "id": "ted-001-017",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "out of necessity.",
+          "translation": "do sự cần thiết, do hoàn cảnh bắt buộc.",
+          "explanation": "Out of necessity = do bắt buộc, khác out of fear = vì sợ hãi.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "vacillate",
           "meaning": "dao động; do dự giữa các trạng thái",
           "category": "VOCAB",
           "id": "ted-001-018",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "vacillating wildly between feeling like",
+          "translation": "dao động dữ dội giữa những cảm giác như",
+          "explanation": "Vacillating là phân từ của vacillate (dao động, đổi ý liên tục); wildly nhấn mạnh biên độ.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "mantra",
@@ -195,169 +185,169 @@
           "category": "VOCAB",
           "id": "ted-001-019",
           "quote": "give it two weeks.",
-          "translation": "Hãy cho nó hai tuần.",
-          "explanation": "Mantra: câu nhắc nhở bản thân khi cảm xúc thay đổi.",
-          "quoteStatus": "verified_excerpt"
+          "translation": "hãy cho nó hai tuần.",
+          "explanation": "Mantra là phương châm tự nhắc đi nhắc lại; trong bài: give it two weeks.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "barometer",
           "meaning": "thước đo; chỉ dấu",
           "category": "VOCAB",
           "id": "ted-001-020",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "Two weeks is a great barometer",
+          "translation": "Hai tuần là một thước đo rất hữu ích.",
+          "explanation": "Barometer nghĩa gốc: khí áp kế; nghĩa bóng: tiêu chí/thước đo để đánh giá.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "moron",
           "meaning": "kẻ ngốc (khẩu ngữ, có thể xúc phạm)",
           "category": "VOCAB",
           "id": "ted-001-021",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "I am comfortable sounding like a moron.",
+          "translation": "Tôi không ngại nghe mình có vẻ như một kẻ ngốc.",
+          "explanation": "Moron là cách gọi khá nặng, nghĩa là người ngu ngốc; diễn giả cố ý tự trào.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "extraordinary",
           "meaning": "phi thường; đặc biệt xuất sắc",
           "category": "VOCAB",
           "id": "ted-001-022",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "an extraordinary learner.",
+          "translation": "một người học hỏi phi thường.",
+          "explanation": "Extraordinary = khác thường theo hướng xuất sắc, phi thường.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "embrace",
           "meaning": "đón nhận; chấp nhận tích cực",
           "category": "VOCAB",
           "id": "ted-001-023",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "Embracing being a professional idiot",
+          "translation": "Chấp nhận việc làm một ‘kẻ ngốc chuyên nghiệp’",
+          "explanation": "Embracing là V-ing của embrace, nghĩa bóng: chấp nhận một cách chủ động.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "miserable",
           "meaning": "khổ sở; không hạnh phúc",
           "category": "VOCAB",
           "id": "ted-001-024",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "they're miserable.",
+          "translation": "họ lại khổ sở, bất hạnh.",
+          "explanation": "Miserable = bất hạnh/khổ sở dù có chức danh, tiền bạc hay danh tiếng.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "bravery",
           "meaning": "sự dũng cảm",
           "category": "VOCAB",
           "id": "ted-001-025",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "It takes bravery to trade the known for the unknown.",
+          "translation": "Cần lòng dũng cảm để đánh đổi điều quen thuộc lấy điều chưa biết.",
+          "explanation": "Bravery là danh từ sự dũng cảm; trade A for B = đánh đổi A lấy B.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "courage",
           "meaning": "lòng can đảm",
           "category": "VOCAB",
           "id": "ted-001-026",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "It takes courage to do something",
+          "translation": "Cần có can đảm để làm điều gì đó.",
+          "explanation": "Courage cũng là danh từ chỉ lòng can đảm; It takes + N + to V.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "hospice",
           "meaning": "cơ sở/chăm sóc giảm nhẹ cuối đời",
           "category": "VOCAB",
           "id": "ted-001-027",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "helping people who were dying in hospice.",
+          "translation": "giúp đỡ những người sắp qua đời trong cơ sở chăm sóc cuối đời.",
+          "explanation": "Hospice là nơi/dịch vụ chăm sóc giảm nhẹ cuối đời.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "get ahead",
           "meaning": "tiến lên; thăng tiến",
           "category": "PHRASE",
           "id": "ted-001-028",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "what you need to do to get ahead.",
+          "translation": "điều bạn cần làm để tiến xa hơn.",
+          "explanation": "Get ahead = tiến bộ hoặc tiến xa trong sự nghiệp.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "get stuck",
           "meaning": "mắc kẹt",
           "category": "PHRASE",
           "id": "ted-001-029",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "you can get stuck inside of for years.",
+          "translation": "bạn có thể bị mắc kẹt trong đó suốt nhiều năm.",
+          "explanation": "Get stuck = rơi vào trạng thái mắc kẹt; get stuck inside of ... = bị kẹt trong ...",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "be tied to",
           "meaning": "bị gắn với; phụ thuộc vào",
           "category": "PHRASE",
           "id": "ted-001-030",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "your self-worth is tied to your title",
+          "translation": "giá trị bản thân bạn bị gắn với chức danh của bạn",
+          "explanation": "Be tied to + N = phụ thuộc/gắn liền với một yếu tố.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "take a risk",
           "meaning": "chấp nhận rủi ro",
           "category": "PHRASE",
           "id": "ted-001-031",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "So I took a risk and I took the job.",
+          "translation": "Vì vậy tôi chấp nhận rủi ro và nhận công việc ấy.",
+          "explanation": "Take a risk = chấp nhận rủi ro; took là quá khứ của take.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "jump off a cliff (metaphor)",
           "meaning": "dám bước vào bước ngoặt nhiều rủi ro (ẩn dụ)",
           "category": "PHRASE",
           "id": "ted-001-032",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "jumping off cliffs.",
+          "translation": "nhảy khỏi những vách đá (ẩn dụ cho bước đi táo bạo).",
+          "explanation": "Jump off cliffs là ẩn dụ rời lộ trình an toàn để thử một con đường mới.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "a bunch of",
           "meaning": "khá nhiều; một nhóm",
           "category": "PHRASE",
           "id": "ted-001-033",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "I talked to a bunch of different people",
+          "translation": "Tôi đã nói chuyện với khá nhiều người khác nhau.",
+          "explanation": "A bunch of + danh từ số nhiều = khá nhiều; cách nói thông dụng.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "I have to admit",
           "meaning": "tôi phải thừa nhận rằng",
           "category": "PHRASE",
           "id": "ted-001-034",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "I have to admit, a lot of them told me not to take it.",
+          "translation": "Tôi phải thừa nhận rằng nhiều người khuyên tôi đừng nhận công việc đó.",
+          "explanation": "I have to admit = tôi phải thừa nhận; giúp giới thiệu thông tin thành thật.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "go from ... to ...",
           "meaning": "chuyển từ ... sang ...",
           "category": "PHRASE",
           "id": "ted-001-035",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "I had gone from feeling like a beginner in this new environment to feeling confident and capable.",
+          "translation": "Tôi đã chuyển từ cảm giác là người mới sang cảm giác tự tin và có năng lực.",
+          "explanation": "Go from A to B dùng cho sự thay đổi trạng thái; sau from/to ở đây là feeling.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "in spite of",
@@ -365,223 +355,223 @@
           "category": "PHRASE",
           "id": "ted-001-036",
           "quote": "in spite of fear.",
-          "translation": "Bất chấp nỗi sợ.",
-          "explanation": "In spite of + danh từ/cụm danh từ.",
-          "quoteStatus": "verified_excerpt"
+          "translation": "bất chấp nỗi sợ.",
+          "explanation": "In spite of + N/V-ing = bất chấp; ở đây nối với fear.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "run out of",
           "meaning": "cạn/hết",
           "category": "PHRASE",
           "id": "ted-001-037",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "I might run out of money",
+          "translation": "tôi có thể hết tiền",
+          "explanation": "Run out of + N = hết/cạn một thứ; might diễn tả khả năng chưa chắc xảy ra.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "out of fear",
           "meaning": "vì sợ hãi",
           "category": "PHRASE",
           "id": "ted-001-038",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "They stay there out of fear.",
+          "translation": "Họ ở lại đó vì sợ hãi.",
+          "explanation": "Out of fear = vì sợ, khác out of necessity = vì thực sự cần.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "in the first place",
           "meaning": "ngay từ đầu",
           "category": "PHRASE",
           "id": "ted-001-039",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "Who the hell even gave me this job in the first place?",
+          "translation": "Rốt cuộc ai đã giao công việc này cho tôi ngay từ đầu vậy?",
+          "explanation": "In the first place = ngay từ đầu; who the hell mang sắc thái cảm xúc mạnh, không trang trọng.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "sleep on it",
           "meaning": "để qua một đêm rồi quyết định",
           "category": "PHRASE",
           "id": "ted-001-040",
-          "quote": "sleep on it.",
-          "translation": "Hãy để qua một đêm rồi quyết định.",
-          "explanation": "Cụm thành ngữ: dành thời gian suy nghĩ trước quyết định.",
-          "quoteStatus": "verified_excerpt"
+          "quote": "A lot of people will tell you to sleep on it.",
+          "translation": "Nhiều người sẽ khuyên bạn để qua một đêm rồi hẵng quyết định.",
+          "explanation": "Sleep on it = tạm hoãn quyết định để có thời gian suy nghĩ, thường qua một đêm.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "pay attention to",
           "meaning": "chú ý đến",
           "category": "PHRASE",
           "id": "ted-001-041",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "things that you should actually pay attention to.",
+          "translation": "những điều mà bạn thực sự nên chú ý.",
+          "explanation": "Pay attention to + N/V-ing = chú ý đến điều gì.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
-          "term": "be comfortable with + V-ing",
+          "term": "be comfortable + V-ing",
           "meaning": "thoải mái khi làm việc gì",
           "category": "PHRASE",
           "id": "ted-001-042",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "I am comfortable sounding like a moron.",
+          "translation": "Tôi thấy thoải mái ngay cả khi lời mình nghe thật ngớ ngẩn.",
+          "explanation": "Be comfortable + V-ing = thấy thoải mái khi làm việc gì; sounding là V-ing.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "be afraid of + V-ing",
           "meaning": "sợ làm việc gì",
           "category": "PHRASE",
           "id": "ted-001-043",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "So many people are afraid of sounding dumb",
+          "translation": "Rất nhiều người sợ mình nghe có vẻ ngu ngốc.",
+          "explanation": "Be afraid of + V-ing = sợ việc gì; sounding dumb = bị nghe như người ngốc.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "step sideways or backwards",
           "meaning": "bước ngang hoặc lùi (trên đường sự nghiệp)",
           "category": "PHRASE",
           "id": "ted-001-044",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "a step sideways or backwards to someone else.",
+          "translation": "một bước đi ngang hoặc lùi lại trong mắt người khác.",
+          "explanation": "Step sideways/backwards là bước ngang/lùi về vị trí công việc, không nhất thiết là thất bại.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "trade the known for the unknown",
           "meaning": "đổi điều quen thuộc lấy điều chưa biết",
           "category": "PHRASE",
           "id": "ted-001-045",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "trade the known for the unknown.",
+          "translation": "đánh đổi cái đã biết để lấy cái chưa biết.",
+          "explanation": "Trade A for B = đánh đổi A để có B; the known / the unknown dùng tính từ như danh từ tập hợp.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "be supposed to + V",
           "meaning": "được kỳ vọng/phải làm gì",
           "category": "STRUCTURE",
           "id": "ted-001-046",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "you're supposed to know what you want to do.",
+          "translation": "người ta kỳ vọng bạn phải biết mình muốn làm gì.",
+          "explanation": "Be supposed to + V = được kỳ vọng/được cho là phải làm việc gì.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "what it takes to + V",
           "meaning": "những gì cần có để làm gì",
           "category": "STRUCTURE",
           "id": "ted-001-047",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "what it takes to build a great career.",
+          "translation": "những điều cần có để xây dựng sự nghiệp xuất sắc.",
+          "explanation": "What it takes to + V = điều kiện/năng lực cần thiết để làm được điều gì.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "be tied to + noun",
           "meaning": "gắn/phụ thuộc vào điều gì",
           "category": "STRUCTURE",
           "id": "ted-001-048",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "your self-worth is tied to your title",
+          "translation": "giá trị bản thân bạn gắn liền với chức danh của bạn",
+          "explanation": "Be tied to + noun = gắn chặt/phụ thuộc vào điều gì.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "one of the most + adj + plural noun + is ...",
           "meaning": "một trong những ... nhất là ...",
           "category": "STRUCTURE",
           "id": "ted-001-049",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "one of the most important things you can get good at in your career is taking risks.",
+          "translation": "một trong những điều quan trọng nhất bạn có thể rèn giỏi trong sự nghiệp là chấp nhận rủi ro.",
+          "explanation": "One of + superlative + plural noun + is ...; “one” là chủ ngữ số ít của is.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "I wonder if + clause",
           "meaning": "tôi tự hỏi liệu ...",
           "category": "STRUCTURE",
           "id": "ted-001-050",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "I wonder if I can be capable in this completely new environment.",
+          "translation": "Tôi tự hỏi liệu mình có thể làm tốt trong môi trường hoàn toàn mới này không.",
+          "explanation": "I wonder if + mệnh đề = tôi tự hỏi liệu ...; diễn tả băn khoăn.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "go from + V-ing + to + V-ing",
           "meaning": "chuyển từ trạng thái/hành động ... sang ...",
           "category": "STRUCTURE",
           "id": "ted-001-051",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "I had gone from feeling like a beginner in this new environment to feeling confident and capable.",
+          "translation": "Tôi đã chuyển từ cảm giác mới bắt đầu trong môi trường này sang tự tin và có năng lực.",
+          "explanation": "Go from feeling ... to feeling ... là mẫu câu nói sự chuyển biến cảm xúc/trạng thái.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "tell the difference between A and B",
           "meaning": "phân biệt A và B",
           "category": "STRUCTURE",
           "id": "ted-001-052",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "learn to tell the difference between the kind of fear",
+          "translation": "học cách phân biệt giữa những kiểu sợ hãi",
+          "explanation": "Tell the difference between A and B = nhận ra sự khác biệt giữa hai loại.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "in order to + V",
           "meaning": "để làm gì (mục đích)",
           "category": "STRUCTURE",
           "id": "ted-001-053",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "in order to get good at jumping off cliffs",
+          "translation": "để trở nên giỏi trong việc dám ‘nhảy khỏi vách đá’.",
+          "explanation": "In order to + V = để, nhằm mục đích; trang trọng/nhấn mạnh hơn to + V.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "get good at + V-ing",
           "meaning": "trở nên giỏi việc gì",
           "category": "STRUCTURE",
           "id": "ted-001-054",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "one of the most important things you can get good at in your career is taking risks.",
+          "translation": "một trong những điều quan trọng nhất bạn có thể rèn giỏi trong sự nghiệp là chấp nhận rủi ro.",
+          "explanation": "Get good at + V-ing = trở nên giỏi việc gì; khác be good at (đã giỏi).",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "Sorry if this is ..., but ...",
           "meaning": "xin lỗi nếu ... nhưng ... (mở đầu câu hỏi)",
           "category": "STRUCTURE",
           "id": "ted-001-055",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "Sorry if this is a stupid question, but.",
+          "translation": "Xin lỗi nếu đây là câu hỏi ngốc nghếch, nhưng...",
+          "explanation": "Sorry if this is ... but ... mở đầu câu hỏi một cách khiêm tốn; là lời dẫn chưa trọn ý.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
-          "term": "the more + clause, the more + clause",
-          "meaning": "càng ... càng ...",
+          "term": "the more + noun/clause ...",
+          "meaning": "càng nhiều/càng ... thì ... (cấu trúc so sánh tăng tiến; đây là một vế trích từ bài)",
           "category": "STRUCTURE",
           "id": "ted-001-056",
-          "quote": "",
-          "translation": "",
-          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
-          "quoteStatus": "source_link_only"
+          "quote": "the more cliffs that you jump off of.",
+          "translation": "càng nhiều vách đá mà bạn dám nhảy khỏi.",
+          "explanation": "Bài dùng “the more cliffs ...” trong một câu dài để nói số lần thử thách tăng lên; phần sau không theo khuôn “the more ..., the more ...” nguyên vẹn.",
+          "quoteStatus": "user_transcript_verbatim"
         },
         {
           "term": "It takes + noun + to + V",
           "meaning": "cần ... để làm gì",
           "category": "STRUCTURE",
           "id": "ted-001-057",
-          "quote": "It takes bravery",
-          "translation": "Cần có sự dũng cảm",
-          "explanation": "It takes + danh từ + to V; xem đầy đủ tại transcript.",
-          "quoteStatus": "verified_excerpt"
+          "quote": "It takes bravery to trade the known for the unknown.",
+          "translation": "Cần lòng dũng cảm để đánh đổi điều quen thuộc lấy điều chưa biết.",
+          "explanation": "It takes + danh từ + to V = cần phẩm chất/điều kiện nào đó để làm một việc.",
+          "quoteStatus": "user_transcript_verbatim"
         }
       ],
       "transcriptUrl": "https://www.ted.com/talks/molly_graham_forget_the_corporate_ladder_winners_take_risks",
-      "transcriptTextUrl": "https://rosetta.to/u/ted/forget-the-corporate-ladder-winners-take-risks-molly-graham-ted"
+      "transcriptTextUrl": "https://www.ted.com/talks/molly_graham_forget_the_corporate_ladder_winners_take_risks"
     }
   ]
 }
