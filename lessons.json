@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "lessons": [
     {
       "id": "ted-001",
@@ -7,465 +7,581 @@
       "title": "Forget the Corporate Ladder — Winners Take Risks",
       "speaker": "Molly Graham",
       "source": "TED Talk",
-      "notes": "Ví dụ do AI biên soạn theo chủ đề; không phải câu trích nguyên tác. Các mốc thời gian chỉ mang tính tham khảo.",
+      "notes": "Chế độ A: ưu tiên trích dẫn nguyên tác TED (đã đối chiếu). Những thẻ chưa có trích dẫn hiển thị liên kết transcript thay cho ví dụ tự viết. Không có câu minh họa AI.",
       "cards": [
         {
           "term": "corporate ladder",
           "meaning": "nấc thang sự nghiệp",
-          "example": "Traditional promotions can feel like climbing a corporate ladder.",
           "category": "VOCAB",
-          "time": "00:00–01:15",
-          "id": "ted-001-001"
+          "id": "ted-001-001",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "promotion",
           "meaning": "sự thăng chức",
-          "example": "A promotion does not always mean personal growth.",
           "category": "VOCAB",
-          "time": "00:00–01:15",
-          "id": "ted-001-002"
+          "id": "ted-001-002",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "self-worth",
           "meaning": "giá trị bản thân",
-          "example": "Your self-worth should not depend on a job title.",
           "category": "VOCAB",
-          "time": "00:00–01:15",
-          "id": "ted-001-003"
+          "id": "ted-001-003",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "performance rating",
           "meaning": "đánh giá hiệu suất",
-          "example": "Her performance rating dropped after she changed roles.",
           "category": "VOCAB",
-          "time": "02:00–03:49",
-          "id": "ted-001-004"
+          "id": "ted-001-004",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "illusion",
           "meaning": "ảo tưởng; điều tưởng là thật",
-          "example": "The speaker challenges the illusion of a safe career path.",
           "category": "VOCAB",
-          "time": "00:00–01:15",
-          "id": "ted-001-005"
+          "id": "ted-001-005",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "intrigued",
           "meaning": "tò mò; bị thu hút",
-          "example": "She was intrigued by an unfamiliar role.",
           "category": "VOCAB",
-          "time": "02:00–03:49",
-          "id": "ted-001-006"
+          "id": "ted-001-006",
+          "quote": "I was intrigued, but I was also scared.",
+          "translation": "Tôi tò mò, bị thu hút, nhưng cũng thấy sợ.",
+          "explanation": "Intrigued đối lập với scared: vừa hứng thú vừa lo lắng.",
+          "quoteStatus": "verified_excerpt"
         },
         {
           "term": "risky",
           "meaning": "có rủi ro",
-          "example": "The new project was risky and unfamiliar.",
           "category": "VOCAB",
-          "time": "02:00–03:49",
-          "id": "ted-001-007"
+          "id": "ted-001-007",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "long-term",
           "meaning": "dài hạn",
-          "example": "She accepted a long-term project.",
           "category": "VOCAB",
-          "time": "02:00–03:49",
-          "id": "ted-001-008"
+          "id": "ted-001-008",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "capable",
           "meaning": "có khả năng",
-          "example": "She wondered whether she was capable in a new setting.",
           "category": "VOCAB",
-          "time": "02:00–03:49",
-          "id": "ted-001-009"
+          "id": "ted-001-009",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "competent",
           "meaning": "có năng lực, thành thạo",
-          "example": "She used to feel competent in HR.",
           "category": "VOCAB",
-          "time": "02:00–03:49",
-          "id": "ted-001-010"
+          "id": "ted-001-010",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "steep",
           "meaning": "dốc đứng",
-          "example": "She compares learning a difficult job to a steep cliff.",
           "category": "VOCAB",
-          "time": "02:00–03:49",
-          "id": "ted-001-011"
+          "id": "ted-001-011",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "brilliant",
           "meaning": "xuất sắc; rất thông minh",
-          "example": "She attended meetings with brilliant colleagues.",
           "category": "VOCAB",
-          "time": "02:00–03:49",
-          "id": "ted-001-012"
+          "id": "ted-001-012",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "nuanced",
           "meaning": "tinh tế; có nhiều sắc thái",
-          "example": "The meeting covered a nuanced issue.",
           "category": "VOCAB",
-          "time": "02:00–03:49",
-          "id": "ted-001-013"
+          "id": "ted-001-013",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "vividly",
           "meaning": "một cách rõ ràng, sống động",
-          "example": "She vividly remembered a successful meeting.",
           "category": "VOCAB",
-          "time": "02:00–03:49",
-          "id": "ted-001-014"
+          "id": "ted-001-014",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "confident",
           "meaning": "tự tin",
-          "example": "She gradually became confident in the new role.",
           "category": "VOCAB",
-          "time": "02:00–03:49",
-          "id": "ted-001-015"
+          "id": "ted-001-015",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "necessity",
           "meaning": "sự cần thiết; nhu cầu bắt buộc",
-          "example": "Some people stay in a job out of necessity.",
           "category": "VOCAB",
-          "time": "03:49–06:04",
-          "id": "ted-001-016"
+          "id": "ted-001-016",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "uncertainty",
           "meaning": "sự không chắc chắn",
-          "example": "Changing careers involves uncertainty.",
           "category": "VOCAB",
-          "time": "03:49–06:04",
-          "id": "ted-001-017"
+          "id": "ted-001-017",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "vacillate",
           "meaning": "dao động; do dự giữa các trạng thái",
-          "example": "New learners may vacillate between hope and doubt.",
           "category": "VOCAB",
-          "time": "04:30–06:04",
-          "id": "ted-001-018"
+          "id": "ted-001-018",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "mantra",
           "meaning": "câu nhắc nhở; phương châm",
-          "example": "Her mantra was to allow two weeks before judging a feeling.",
           "category": "VOCAB",
-          "time": "06:04–07:10",
-          "id": "ted-001-019"
+          "id": "ted-001-019",
+          "quote": "give it two weeks.",
+          "translation": "Hãy cho nó hai tuần.",
+          "explanation": "Mantra: câu nhắc nhở bản thân khi cảm xúc thay đổi.",
+          "quoteStatus": "verified_excerpt"
         },
         {
           "term": "barometer",
           "meaning": "thước đo; chỉ dấu",
-          "example": "Time can be a useful barometer for emotions.",
           "category": "VOCAB",
-          "time": "06:04–07:10",
-          "id": "ted-001-020"
+          "id": "ted-001-020",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "moron",
           "meaning": "kẻ ngốc (khẩu ngữ, có thể xúc phạm)",
-          "example": "She was willing to sound like a moron to learn.",
           "category": "VOCAB",
-          "time": "07:10–08:51",
-          "id": "ted-001-021"
+          "id": "ted-001-021",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "extraordinary",
           "meaning": "phi thường; đặc biệt xuất sắc",
-          "example": "Asking questions made her an extraordinary learner.",
           "category": "VOCAB",
-          "time": "07:10–08:51",
-          "id": "ted-001-022"
+          "id": "ted-001-022",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "embrace",
           "meaning": "đón nhận; chấp nhận tích cực",
-          "example": "She encourages people to embrace being beginners.",
           "category": "VOCAB",
-          "time": "07:10–08:51",
-          "id": "ted-001-023"
+          "id": "ted-001-023",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "miserable",
           "meaning": "khổ sở; không hạnh phúc",
-          "example": "A prestigious title can still leave someone miserable.",
           "category": "VOCAB",
-          "time": "08:51–09:32",
-          "id": "ted-001-024"
+          "id": "ted-001-024",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "bravery",
           "meaning": "sự dũng cảm",
-          "example": "A major change may require bravery.",
           "category": "VOCAB",
-          "time": "08:51–09:32",
-          "id": "ted-001-025"
+          "id": "ted-001-025",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "courage",
           "meaning": "lòng can đảm",
-          "example": "It takes courage to change direction.",
           "category": "VOCAB",
-          "time": "08:51–09:32",
-          "id": "ted-001-026"
+          "id": "ted-001-026",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "hospice",
           "meaning": "cơ sở/chăm sóc giảm nhẹ cuối đời",
-          "example": "A former CEO moved into hospice work.",
           "category": "VOCAB",
-          "time": "08:51–09:32",
-          "id": "ted-001-027"
+          "id": "ted-001-027",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "get ahead",
           "meaning": "tiến lên; thăng tiến",
-          "example": "She questions whether promotions are the only way to get ahead.",
           "category": "PHRASE",
-          "time": "00:00–01:15",
-          "id": "ted-001-028"
+          "id": "ted-001-028",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "get stuck",
           "meaning": "mắc kẹt",
-          "example": "You can get stuck following one career path.",
           "category": "PHRASE",
-          "time": "00:00–01:15",
-          "id": "ted-001-029"
+          "id": "ted-001-029",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "be tied to",
           "meaning": "bị gắn với; phụ thuộc vào",
-          "example": "A sense of worth can be tied to job titles.",
           "category": "PHRASE",
-          "time": "00:00–01:15",
-          "id": "ted-001-030"
+          "id": "ted-001-030",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "take a risk",
           "meaning": "chấp nhận rủi ro",
-          "example": "She took a risk by joining a new project.",
           "category": "PHRASE",
-          "time": "01:15–02:30",
-          "id": "ted-001-031"
+          "id": "ted-001-031",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "jump off a cliff (metaphor)",
           "meaning": "dám bước vào bước ngoặt nhiều rủi ro (ẩn dụ)",
-          "example": "She uses a cliff jump as a metaphor for career change.",
           "category": "PHRASE",
-          "time": "01:15–04:01",
-          "id": "ted-001-032"
+          "id": "ted-001-032",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "a bunch of",
           "meaning": "khá nhiều; một nhóm",
-          "example": "She asked a bunch of people for advice.",
           "category": "PHRASE",
-          "time": "02:00–03:00",
-          "id": "ted-001-033"
+          "id": "ted-001-033",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "I have to admit",
           "meaning": "tôi phải thừa nhận rằng",
-          "example": "I have to admit that the new project scares me.",
           "category": "PHRASE",
-          "time": "02:00–03:00",
-          "id": "ted-001-034"
+          "id": "ted-001-034",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "go from ... to ...",
           "meaning": "chuyển từ ... sang ...",
-          "example": "She went from feeling skilled to feeling like a beginner.",
           "category": "PHRASE",
-          "time": "02:00–03:49",
-          "id": "ted-001-035"
+          "id": "ted-001-035",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "in spite of",
           "meaning": "bất chấp; mặc dù",
-          "example": "She acted in spite of fear.",
           "category": "PHRASE",
-          "time": "03:49–04:30",
-          "id": "ted-001-036"
+          "id": "ted-001-036",
+          "quote": "in spite of fear.",
+          "translation": "Bất chấp nỗi sợ.",
+          "explanation": "In spite of + danh từ/cụm danh từ.",
+          "quoteStatus": "verified_excerpt"
         },
         {
           "term": "run out of",
           "meaning": "cạn/hết",
-          "example": "She distinguishes fear of failure from fear of running out of money.",
           "category": "PHRASE",
-          "time": "03:49–04:30",
-          "id": "ted-001-037"
+          "id": "ted-001-037",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "out of fear",
           "meaning": "vì sợ hãi",
-          "example": "Some people stay in place out of fear.",
           "category": "PHRASE",
-          "time": "03:49–04:30",
-          "id": "ted-001-038"
+          "id": "ted-001-038",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "in the first place",
           "meaning": "ngay từ đầu",
-          "example": "She wondered why she had accepted the position in the first place.",
           "category": "PHRASE",
-          "time": "04:30–06:04",
-          "id": "ted-001-039"
+          "id": "ted-001-039",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "sleep on it",
           "meaning": "để qua một đêm rồi quyết định",
-          "example": "People often suggest sleeping on a big decision.",
           "category": "PHRASE",
-          "time": "06:04–07:10",
-          "id": "ted-001-040"
+          "id": "ted-001-040",
+          "quote": "sleep on it.",
+          "translation": "Hãy để qua một đêm rồi quyết định.",
+          "explanation": "Cụm thành ngữ: dành thời gian suy nghĩ trước quyết định.",
+          "quoteStatus": "verified_excerpt"
         },
         {
           "term": "pay attention to",
           "meaning": "chú ý đến",
-          "example": "She suggests noticing feelings that remain after two weeks.",
           "category": "PHRASE",
-          "time": "06:04–07:10",
-          "id": "ted-001-041"
+          "id": "ted-001-041",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "be comfortable with + V-ing",
           "meaning": "thoải mái khi làm việc gì",
-          "example": "She is comfortable with asking basic questions.",
           "category": "PHRASE",
-          "time": "07:10–08:51",
-          "id": "ted-001-042"
+          "id": "ted-001-042",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "be afraid of + V-ing",
           "meaning": "sợ làm việc gì",
-          "example": "Some people are afraid of sounding foolish.",
           "category": "PHRASE",
-          "time": "07:10–08:51",
-          "id": "ted-001-043"
+          "id": "ted-001-043",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "step sideways or backwards",
           "meaning": "bước ngang hoặc lùi (trên đường sự nghiệp)",
-          "example": "An unconventional career move may look like a step sideways.",
           "category": "PHRASE",
-          "time": "08:51–09:32",
-          "id": "ted-001-044"
+          "id": "ted-001-044",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "trade the known for the unknown",
           "meaning": "đổi điều quen thuộc lấy điều chưa biết",
-          "example": "A new career can mean trading the known for the unknown.",
           "category": "PHRASE",
-          "time": "08:51–09:32",
-          "id": "ted-001-045"
+          "id": "ted-001-045",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "be supposed to + V",
           "meaning": "được kỳ vọng/phải làm gì",
-          "example": "You are supposed to know your major early in life.",
           "category": "STRUCTURE",
-          "time": "00:00–01:15",
-          "id": "ted-001-046"
+          "id": "ted-001-046",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "what it takes to + V",
           "meaning": "những gì cần có để làm gì",
-          "example": "What does it take to build a meaningful career?",
           "category": "STRUCTURE",
-          "time": "00:00–01:15",
-          "id": "ted-001-047"
+          "id": "ted-001-047",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "be tied to + noun",
           "meaning": "gắn/phụ thuộc vào điều gì",
-          "example": "Self-worth should not be tied to a promotion.",
           "category": "STRUCTURE",
-          "time": "00:00–01:15",
-          "id": "ted-001-048"
+          "id": "ted-001-048",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "one of the most + adj + plural noun + is ...",
           "meaning": "một trong những ... nhất là ...",
-          "example": "One of the most useful skills is asking good questions.",
           "category": "STRUCTURE",
-          "time": "01:15–02:00",
-          "id": "ted-001-049"
+          "id": "ted-001-049",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "I wonder if + clause",
           "meaning": "tôi tự hỏi liệu ...",
-          "example": "I wonder if I can succeed in this new environment.",
           "category": "STRUCTURE",
-          "time": "02:00–03:00",
-          "id": "ted-001-050"
+          "id": "ted-001-050",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "go from + V-ing + to + V-ing",
           "meaning": "chuyển từ trạng thái/hành động ... sang ...",
-          "example": "She went from feeling lost to feeling capable.",
           "category": "STRUCTURE",
-          "time": "02:00–03:49",
-          "id": "ted-001-051"
+          "id": "ted-001-051",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "tell the difference between A and B",
           "meaning": "phân biệt A và B",
-          "example": "Learn to tell the difference between useful fear and fear of failure.",
           "category": "STRUCTURE",
-          "time": "03:49–04:30",
-          "id": "ted-001-052"
+          "id": "ted-001-052",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "in order to + V",
           "meaning": "để làm gì (mục đích)",
-          "example": "She learned to ask questions in order to improve.",
           "category": "STRUCTURE",
-          "time": "04:30–06:04",
-          "id": "ted-001-053"
+          "id": "ted-001-053",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "get good at + V-ing",
           "meaning": "trở nên giỏi việc gì",
-          "example": "You can get good at taking risks through practice.",
           "category": "STRUCTURE",
-          "time": "03:49–07:10",
-          "id": "ted-001-054"
+          "id": "ted-001-054",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "Sorry if this is ..., but ...",
           "meaning": "xin lỗi nếu ... nhưng ... (mở đầu câu hỏi)",
-          "example": "Sorry if this is a basic question, but could you explain the term?",
           "category": "STRUCTURE",
-          "time": "07:10–08:51",
-          "id": "ted-001-055"
+          "id": "ted-001-055",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "the more + clause, the more + clause",
           "meaning": "càng ... càng ...",
-          "example": "The more you practice, the more confident you become.",
           "category": "STRUCTURE",
-          "time": "08:51–09:32",
-          "id": "ted-001-056"
+          "id": "ted-001-056",
+          "quote": "",
+          "translation": "",
+          "explanation": "Xem câu gốc chứa từ/cụm từ này trong transcript bằng liên kết bên dưới. Chưa chép nguyên văn vào thẻ.",
+          "quoteStatus": "source_link_only"
         },
         {
           "term": "It takes + noun + to + V",
           "meaning": "cần ... để làm gì",
-          "example": "It takes courage to choose a different path.",
           "category": "STRUCTURE",
-          "time": "08:51–09:32",
-          "id": "ted-001-057"
+          "id": "ted-001-057",
+          "quote": "It takes bravery",
+          "translation": "Cần có sự dũng cảm",
+          "explanation": "It takes + danh từ + to V; xem đầy đủ tại transcript.",
+          "quoteStatus": "verified_excerpt"
         }
-      ]
+      ],
+      "transcriptUrl": "https://www.ted.com/talks/molly_graham_forget_the_corporate_ladder_winners_take_risks",
+      "transcriptTextUrl": "https://rosetta.to/u/ted/forget-the-corporate-ladder-winners-take-risks-molly-graham-ted"
     }
   ]
 }
