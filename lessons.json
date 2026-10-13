@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "lessons": [
     {
       "id": "ted-001",
@@ -572,6 +572,458 @@
       ],
       "transcriptUrl": "https://www.ted.com/talks/molly_graham_forget_the_corporate_ladder_winners_take_risks",
       "transcriptTextUrl": "https://www.ted.com/talks/molly_graham_forget_the_corporate_ladder_winners_take_risks"
+    },
+    {
+      "id": "ted-002",
+      "date": "2026-10-13",
+      "title": "Attention, Focus & Distractions (tên tạm theo transcript)",
+      "speaker": "Chưa xác minh",
+      "source": "TED / TED-Ed — transcript do người học cung cấp",
+      "notes": "40 thẻ mới, có trích dẫn trực tiếp từ transcript bạn cung cấp. Tên bài và diễn giả chưa xác minh.",
+      "cards": [
+        {
+          "id": "ted-002-001",
+          "term": "attention span",
+          "meaning": "khoảng thời gian có thể duy trì sự tập trung",
+          "category": "VOCAB",
+          "quote": "The researchers set out to measure the length of, well, our attention spans.",
+          "translation": "Các nhà nghiên cứu bắt đầu đo độ dài khoảng thời gian tập trung của chúng ta.",
+          "explanation": "Attention span thường dùng ở dạng số nhiều attention spans khi nói về nhiều người.",
+          "time": "00:06",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-002",
+          "term": "set out to + V",
+          "meaning": "bắt đầu với mục tiêu làm gì",
+          "category": "PHRASE",
+          "quote": "The researchers set out to measure the length of, well, our attention spans.",
+          "translation": "Các nhà nghiên cứu bắt đầu với mục tiêu đo thời lượng chú ý của chúng ta.",
+          "explanation": "Set out to measure = bắt tay vào việc đo lường với mục đích rõ ràng.",
+          "time": "00:06",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-003",
+          "term": "stay focused on",
+          "meaning": "duy trì tập trung vào",
+          "category": "PHRASE",
+          "quote": "Participants downloaded a program that tracked how long they stayed focused on a single computer application before switching to another.",
+          "translation": "Người tham gia tải phần mềm theo dõi thời gian họ tập trung vào một ứng dụng trước khi chuyển sang ứng dụng khác.",
+          "explanation": "Stay focused on + danh từ hoặc V-ing.",
+          "time": "00:06",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-004",
+          "term": "stick with a task",
+          "meaning": "tiếp tục bám sát một nhiệm vụ",
+          "category": "PHRASE",
+          "quote": "On average, users stuck with a single task for 40 seconds, down from 75 seconds, measured just five years earlier.",
+          "translation": "Trung bình, người dùng chỉ duy trì một nhiệm vụ trong 40 giây, giảm từ 75 giây được đo cách đó 5 năm.",
+          "explanation": "Stuck là quá khứ của stick; stick with = kiên trì hoặc tiếp tục với.",
+          "time": "00:06",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-005",
+          "term": "This doesn’t necessarily mean (that)...",
+          "meaning": "Điều này không nhất thiết có nghĩa là...",
+          "category": "STRUCTURE",
+          "quote": "This doesn’t necessarily mean our attention spans are fundamentally getting shorter.",
+          "translation": "Điều đó không nhất thiết có nghĩa là khả năng tập trung của chúng ta đang ngắn đi về cơ bản.",
+          "explanation": "Cấu trúc giúp tránh kết luận quá mức từ một dữ kiện.",
+          "time": "00:43",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-006",
+          "term": "fundamentally",
+          "meaning": "về cơ bản, về bản chất",
+          "category": "VOCAB",
+          "quote": "This doesn’t necessarily mean our attention spans are fundamentally getting shorter.",
+          "translation": "Điều này không nhất thiết có nghĩa là khoảng tập trung đang ngắn đi về bản chất.",
+          "explanation": "Trạng từ bổ nghĩa cho getting shorter.",
+          "time": "00:43",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-007",
+          "term": "be pulled in more directions",
+          "meaning": "bị kéo theo nhiều hướng, bị phân tán",
+          "category": "PHRASE",
+          "quote": "Rather, in today’s world, our attention is being pulled in more directions than ever before.",
+          "translation": "Thay vào đó, trong thế giới ngày nay, sự chú ý bị kéo theo nhiều hướng hơn bao giờ hết.",
+          "explanation": "Cách diễn đạt bị động mô tả nhiều yếu tố cạnh tranh sự chú ý.",
+          "time": "00:43",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-008",
+          "term": "both online and off",
+          "meaning": "cả trực tuyến lẫn ngoại tuyến",
+          "category": "PHRASE",
+          "quote": "Thankfully, there are ways we can improve and better protect our attention spans, both online and off.",
+          "translation": "May thay, có cách cải thiện và bảo vệ khả năng tập trung, cả trên mạng và ngoài đời.",
+          "explanation": "Off ở đây viết rút gọn của offline.",
+          "time": "00:43",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-009",
+          "term": "a flood of information",
+          "meaning": "một lượng thông tin ồ ạt",
+          "category": "VOCAB",
+          "quote": "Our brains are constantly receiving a flood of information, from sensory input to environmental cues to internal thoughts.",
+          "translation": "Bộ não liên tục nhận một dòng thông tin ồ ạt, từ cảm giác, tín hiệu môi trường đến suy nghĩ bên trong.",
+          "explanation": "Flood được dùng ẩn dụ cho lượng thông tin lớn.",
+          "time": "01:09",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-010",
+          "term": "sensory input",
+          "meaning": "thông tin đầu vào từ giác quan",
+          "category": "VOCAB",
+          "quote": "Our brains are constantly receiving a flood of information, from sensory input to environmental cues to internal thoughts.",
+          "translation": "Bộ não liên tục nhận một lượng lớn thông tin, từ đầu vào cảm giác đến tín hiệu môi trường và suy nghĩ.",
+          "explanation": "Cụm phổ biến trong khoa học thần kinh và tâm lý học.",
+          "time": "01:09",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-011",
+          "term": "environmental cues",
+          "meaning": "tín hiệu từ môi trường",
+          "category": "VOCAB",
+          "quote": "Our brains are constantly receiving a flood of information, from sensory input to environmental cues to internal thoughts.",
+          "translation": "Bộ não liên tục nhận dữ liệu từ cảm giác, tín hiệu môi trường đến suy nghĩ bên trong.",
+          "explanation": "Cue là tín hiệu gợi ý hoặc thúc đẩy sự chú ý.",
+          "time": "01:09",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-012",
+          "term": "rely on",
+          "meaning": "dựa vào, phụ thuộc vào",
+          "category": "PHRASE",
+          "quote": "Filtering through it all relies on several brain regions.",
+          "translation": "Việc sàng lọc tất cả những thông tin này phụ thuộc vào nhiều vùng não.",
+          "explanation": "Rely on + người/vật/nguồn lực.",
+          "time": "01:09",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-013",
+          "term": "prefrontal cortex",
+          "meaning": "vỏ não trước trán",
+          "category": "VOCAB",
+          "quote": "The prefrontal cortex helps us decide what to pay attention to, while the parietal cortex shines a mental flashlight on that prioritized stream of information while ignoring the rest.",
+          "translation": "Vỏ não trước trán giúp quyết định điều gì đáng chú ý, trong khi vỏ não đỉnh tập trung sự chú ý vào luồng thông tin ưu tiên.",
+          "explanation": "Thuật ngữ giải phẫu thần kinh trong nghiên cứu chú ý.",
+          "time": "01:09",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-014",
+          "term": "sustained attention",
+          "meaning": "chú ý duy trì",
+          "category": "VOCAB",
+          "quote": "The challenge of sustained attention is keeping that flashlight focused in one place.",
+          "translation": "Thách thức của chú ý duy trì là giữ chùm đèn tập trung tại một vị trí.",
+          "explanation": "Sustained attention = khả năng duy trì chú ý qua thời gian.",
+          "time": "01:09",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-015",
+          "term": "competing signals",
+          "meaning": "những tín hiệu cạnh tranh nhau",
+          "category": "VOCAB",
+          "quote": "The brain is continuously monitoring all these competing signals.",
+          "translation": "Bộ não liên tục giám sát các tín hiệu đang cạnh tranh nhau.",
+          "explanation": "Competing là tính từ chỉ sự tranh giành cùng nguồn lực.",
+          "time": "01:09",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-016",
+          "term": "novel",
+          "meaning": "mới lạ",
+          "category": "VOCAB",
+          "quote": "And it redirects your focus if anything is flagged as particularly novel, unexpected, or emotionally charged— whether it’s a knock on the door, a notification, or even a passing thought.",
+          "translation": "Nó chuyển hướng chú ý nếu có điều gì được đánh dấu là đặc biệt mới lạ, bất ngờ hoặc gây xúc động.",
+          "explanation": "Novel ở đây là tính từ, không phải danh từ tiểu thuyết.",
+          "time": "01:09",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-017",
+          "term": "emotionally charged",
+          "meaning": "gợi cảm xúc mạnh",
+          "category": "VOCAB",
+          "quote": "And it redirects your focus if anything is flagged as particularly novel, unexpected, or emotionally charged— whether it’s a knock on the door, a notification, or even a passing thought.",
+          "translation": "Nó đổi hướng tập trung trước thứ gì mới lạ, bất ngờ hay mang cảm xúc mạnh.",
+          "explanation": "Charged miêu tả thứ mang nhiều cảm xúc.",
+          "time": "01:09",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-018",
+          "term": "inevitable",
+          "meaning": "không thể tránh khỏi",
+          "category": "VOCAB",
+          "quote": "So, while frustrating, getting distracted is inevitable.",
+          "translation": "Vì thế, dù gây bực bội, việc xao nhãng là không thể tránh khỏi.",
+          "explanation": "Inevitable thường dùng để nói kết quả không thể tránh.",
+          "time": "01:55",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-019",
+          "term": "No matter + noun, ...",
+          "meaning": "Bất kể... thì...",
+          "category": "STRUCTURE",
+          "quote": "But no matter your starting point, there are ways to improve your ability to stay focused.",
+          "translation": "Nhưng bất kể xuất phát điểm của bạn là gì, vẫn có cách cải thiện khả năng tập trung.",
+          "explanation": "No matter your starting point là dạng rút gọn của no matter what your starting point is.",
+          "time": "02:14",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-020",
+          "term": "intricately patterned",
+          "meaning": "có hoa văn/cấu trúc phức tạp, tinh vi",
+          "category": "VOCAB",
+          "quote": "For example, you might focus better when working on a more difficult, intricately patterned puzzle than an easier one.",
+          "translation": "Ví dụ, bạn có thể tập trung tốt hơn khi làm trò ghép hình khó, có hoa văn phức tạp thay vì loại dễ.",
+          "explanation": "Intricately bổ nghĩa cho patterned.",
+          "time": "02:14",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-021",
+          "term": "get something done",
+          "meaning": "hoàn thành một việc",
+          "category": "PHRASE",
+          "quote": "Of course, we don’t always have a choice in what needs to get done.",
+          "translation": "Dĩ nhiên, không phải lúc nào chúng ta cũng được chọn việc cần phải hoàn thành.",
+          "explanation": "Get done nhấn mạnh kết quả hoàn tất.",
+          "time": "02:32",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-022",
+          "term": "If ... feels like work, that’s because it is",
+          "meaning": "Nếu ... cảm giác tốn công, vì thực tế đúng là vậy",
+          "category": "STRUCTURE",
+          "quote": "In these situations, it’s helpful to remember that if focusing feels like work, that's because it is.",
+          "translation": "Trong tình huống này, nên nhớ rằng nếu tập trung có vẻ tốn công sức thì bởi nó thực sự tốn công sức.",
+          "explanation": "That’s because nêu nguyên nhân; it thay cho focusing.",
+          "time": "02:32",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-023",
+          "term": "limited resource",
+          "meaning": "nguồn lực có hạn",
+          "category": "VOCAB",
+          "quote": "In fact, some researchers theorize that attention is a limited resource.",
+          "translation": "Thực tế, một số nhà nghiên cứu đưa ra giả thuyết rằng chú ý là nguồn lực có hạn.",
+          "explanation": "Theorize that = đưa ra giả thuyết rằng.",
+          "time": "02:32",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-024",
+          "term": "deplete",
+          "meaning": "làm cạn kiệt, suy giảm",
+          "category": "VOCAB",
+          "quote": "When you start focusing on something, this resource is at its highest, but it depletes over time, leading to more mistakes and increasing the chance you’ll be distracted.",
+          "translation": "Khi mới bắt đầu tập trung, nguồn lực này cao nhất, nhưng cạn dần theo thời gian, dẫn đến nhiều lỗi hơn.",
+          "explanation": "Deplete thường nói về năng lượng, tài nguyên, nguồn dự trữ.",
+          "time": "02:32",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-025",
+          "term": "multitasking",
+          "meaning": "làm nhiều việc cùng lúc",
+          "category": "VOCAB",
+          "quote": "Multitasking only increases the demand for this resource, exhausting attentional stores more quickly.",
+          "translation": "Đa nhiệm chỉ làm tăng nhu cầu sử dụng nguồn lực này và khiến dự trữ chú ý nhanh cạn hơn.",
+          "explanation": "Đối lập với focusing on one task.",
+          "time": "02:32",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-026",
+          "term": "build in breaks",
+          "meaning": "chủ động bố trí khoảng nghỉ",
+          "category": "PHRASE",
+          "quote": "That's why focusing on one task and intentionally building in breaks can be helpful.",
+          "translation": "Vì vậy, tập trung vào một việc và cố ý bố trí các khoảng nghỉ có thể hữu ích.",
+          "explanation": "Build in = đưa một yếu tố vào kế hoạch ngay từ đầu.",
+          "time": "02:32",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-027",
+          "term": "zone out",
+          "meaning": "thả lỏng đầu óc, lơ đãng",
+          "category": "PHRASE",
+          "quote": "Studies even show a momentary break, to get a snack or just zone out, can reset this attentional resource.",
+          "translation": "Nghiên cứu còn cho thấy nghỉ ngắn để ăn nhẹ hoặc thả lỏng đầu óc có thể khôi phục nguồn lực chú ý.",
+          "explanation": "Phrasal verb thông dụng trong hội thoại.",
+          "time": "02:32",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-028",
+          "term": "solidify",
+          "meaning": "củng cố, làm vững chắc",
+          "category": "VOCAB",
+          "quote": "During breaks, our minds replay the neural activity patterns of what you just learned, helping to solidify the memory for the long term.",
+          "translation": "Trong lúc nghỉ, tâm trí tái hiện các mẫu hoạt động thần kinh vừa học, giúp củng cố trí nhớ lâu dài.",
+          "explanation": "Solidify the memory là collocation có ích trong ngữ cảnh học tập.",
+          "time": "02:32",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-029",
+          "term": "block out distractions",
+          "meaning": "ngăn các yếu tố gây xao nhãng",
+          "category": "PHRASE",
+          "quote": "Speaking of studying, stress, sleepiness, and poor mood can all weaken our ability to block out distractions.",
+          "translation": "Nói đến học tập, căng thẳng, buồn ngủ và tâm trạng kém đều có thể làm suy yếu khả năng loại bỏ xao nhãng.",
+          "explanation": "Block out = chặn, không để tác động đến mình.",
+          "time": "03:33",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-030",
+          "term": "Speaking of ...",
+          "meaning": "Nhắc đến...",
+          "category": "PHRASE",
+          "quote": "Speaking of studying, stress, sleepiness, and poor mood can all weaken our ability to block out distractions.",
+          "translation": "Nhắc đến chuyện học, căng thẳng, buồn ngủ và tâm trạng xấu đều có thể làm giảm khả năng tránh phân tâm.",
+          "explanation": "Dùng để chuyển sang chủ đề có liên quan.",
+          "time": "03:33",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-031",
+          "term": "offer an extra boost",
+          "meaning": "mang lại sự hỗ trợ thêm",
+          "category": "PHRASE",
+          "quote": "And nature may offer an extra boost.",
+          "translation": "Thiên nhiên cũng có thể mang lại một lợi ích tăng cường nữa.",
+          "explanation": "Boost là sự tăng cường tạm thời hoặc thêm vào.",
+          "time": "03:33",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-032",
+          "term": "mindfulness meditation",
+          "meaning": "thiền chánh niệm",
+          "category": "VOCAB",
+          "quote": "Another effective strategy is mindfulness meditation.",
+          "translation": "Một chiến lược hiệu quả khác là thiền chánh niệm.",
+          "explanation": "Mindfulness = chú tâm vào hiện tại; meditation = thiền.",
+          "time": "03:33",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-033",
+          "term": "stay in the present moment",
+          "meaning": "duy trì chú tâm vào hiện tại",
+          "category": "PHRASE",
+          "quote": "This practice is all about staying in the present moment through exercises like spending 12 minutes focusing on the sensations of breathing, which can help train your attention over time.",
+          "translation": "Phương pháp này chủ yếu là hiện diện trong khoảnh khắc hiện tại qua bài tập như tập trung 12 phút vào cảm giác thở.",
+          "explanation": "All about + V-ing nhấn mạnh bản chất cốt lõi.",
+          "time": "03:33",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-034",
+          "term": "get rid of",
+          "meaning": "loại bỏ",
+          "category": "PHRASE",
+          "quote": "But before you go take a walk, grab a snack, or learn to meditate, there’s something much easier you can do right in this moment: get rid of distractions.",
+          "translation": "Nhưng trước khi đi dạo, ăn nhẹ hoặc học thiền, bạn có thể làm điều dễ hơn ngay lúc này: loại bỏ xao nhãng.",
+          "explanation": "Get rid of + danh từ.",
+          "time": "04:18",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-035",
+          "term": "culprit",
+          "meaning": "thủ phạm, nguyên nhân gây vấn đề",
+          "category": "VOCAB",
+          "quote": "It’s impossible to remove every distraction, after all, our own wandering minds are often the biggest culprits.",
+          "translation": "Không thể loại bỏ mọi thứ gây xao nhãng; chính tâm trí hay lang thang của ta thường là thủ phạm lớn nhất.",
+          "explanation": "Culprit dùng được cả cho người và nguyên nhân gây việc xấu.",
+          "time": "04:28",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-036",
+          "term": "grab and hold attention",
+          "meaning": "thu hút và giữ sự chú ý",
+          "category": "PHRASE",
+          "quote": "The distractions on our screens are designed to grab and hold attention.",
+          "translation": "Những yếu tố gây phân tâm trên màn hình được thiết kế để thu hút và giữ sự chú ý.",
+          "explanation": "Grab attention = thu hút chú ý mạnh, hold attention = duy trì sự chú ý.",
+          "time": "04:28",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-037",
+          "term": "be designed to + V",
+          "meaning": "được thiết kế nhằm...",
+          "category": "STRUCTURE",
+          "quote": "The distractions on our screens are designed to grab and hold attention.",
+          "translation": "Những yếu tố gây xao nhãng trên màn hình được thiết kế để thu hút và giữ sự chú ý.",
+          "explanation": "Bị động thường gặp trong mô tả mục đích thiết kế.",
+          "time": "04:28",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-038",
+          "term": "be kind to yourself",
+          "meaning": "nhẹ nhàng với bản thân",
+          "category": "PHRASE",
+          "quote": "So, remember to be kind to yourself.",
+          "translation": "Vì thế, hãy nhớ đối xử tử tế với bản thân.",
+          "explanation": "Lời khuyên dùng nhiều trong ngữ cảnh tự chăm sóc.",
+          "time": "04:28",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-039",
+          "term": "While we can’t ..., ... can ...",
+          "meaning": "Dù không thể..., chúng ta vẫn có thể...",
+          "category": "STRUCTURE",
+          "quote": "While we can’t always control every factor that pulls at our attention, finding a quiet environment, closing extra tabs, and even blocking certain apps can give your brain the best chance at focusing in.",
+          "translation": "Dù không thể kiểm soát mọi yếu tố kéo sự chú ý, tìm nơi yên tĩnh, đóng tab và chặn ứng dụng có thể giúp não dễ tập trung nhất.",
+          "explanation": "While mở mệnh đề nhượng bộ; chủ ngữ vế sau là nhóm V-ing.",
+          "time": "04:28",
+          "quoteStatus": "user_transcript_verbatim"
+        },
+        {
+          "id": "ted-002-040",
+          "term": "give something the best chance",
+          "meaning": "tạo điều kiện tốt nhất cho việc gì",
+          "category": "PHRASE",
+          "quote": "While we can’t always control every factor that pulls at our attention, finding a quiet environment, closing extra tabs, and even blocking certain apps can give your brain the best chance at focusing in.",
+          "translation": "Dù không kiểm soát được mọi yếu tố gây xao nhãng, giảm nhiễu sẽ tạo điều kiện tốt nhất để não tập trung.",
+          "explanation": "Give ... the best chance at + V-ing.",
+          "time": "04:28",
+          "quoteStatus": "user_transcript_verbatim"
+        }
+      ],
+      "transcriptUrl": "",
+      "transcriptTextUrl": ""
     }
   ]
 }
